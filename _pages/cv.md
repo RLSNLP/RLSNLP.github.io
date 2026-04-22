@@ -9,56 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+You can download my full CV [here](/files/cv.pdf). *(TODO: upload your CV PDF to the files/ directory)*
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Ph.D. in Computer Science**, University of California, Los Angeles, 2024–2028 (expected)
+* **M.S. in Data Science**, Peking University, 2020–2023
+* **B.S. in Computer Science and Technology**, UESTC, 2016–2020 (GPA 3.97/4.0, Rank 1/217)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research Interests
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Pre-training and Post-training strategies of Large Language Models
+* Test-Time Scaling and Reasoning Efficiency
+* Evaluation Methods and LLM-as-a-judge
+
+## Academic Service
+
+Reviewer (PC member) for ACL, EMNLP, NAACL, EACL, AAAI, NLPCC, CONLL, and ACL Rolling Review.
+
+## Awards
+
+* Outstanding Student Scholarship of UESTC, 2018
+* National Scholarship of China, 2019
+* Outstanding Graduates in Sichuan Province of China, 2020
+* Merit Student Scholarship of Peking University, 2021
+* Scientific Research Award of Peking University, 2022
+* Outstanding Graduates of Peking University, 2023
