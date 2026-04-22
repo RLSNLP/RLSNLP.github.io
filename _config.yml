@@ -4,9 +4,9 @@ title                    : "Renliang Sun"
 title_separator          : "-"
 name                     : "Renliang Sun"
 description              : "CS PhD student at UCLA, working on LLMs, reasoning, and evaluation."
-url                      : "https://sunrenliang.github.io"  # TODO: replace with your actual GitHub username
+url                      : "https://RLSNLP.github.io"  # TODO: replace with your actual GitHub username
 baseurl                  : ""
-repository               : "sunrenliang/sunrenliang.github.io"  # TODO: replace with your actual repo
+repository               : "RLSNLP/RLSNLP.github.io"  # TODO: replace with your actual repo
 
 # Site Author
 author:
@@ -16,7 +16,7 @@ author:
   location         : "Los Angeles, CA"
   employer         :
   email            : "sunrenliang@ucla.edu"
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_ID"  # TODO: add your Google Scholar ID
+  googlescholar    : "https://scholar.google.com/citations?user=WcwrsNAAAAAJ"  # TODO: add your Google Scholar ID
   github           : # TODO: add your GitHub username
   uri              :
   bitbucket        :
