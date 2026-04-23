@@ -2,7 +2,7 @@
 title: "Stop When Enough: Adaptive Early-Stopping for Chain-of-Thought Reasoning"
 collection: publications
 permalink: /publications/refrain-adaptive-early-stopping/
-date: 2026-05-01
+date: 2026-04-01
 venue: 'ACL 2026'
 paperurl: 'https://arxiv.org/pdf/2510.10103'
 category: 'phd'
