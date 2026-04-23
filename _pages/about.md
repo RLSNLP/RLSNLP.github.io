@@ -20,7 +20,7 @@ My research focuses on:
 
 ## News
 
-- **2026** - Join Meta Superintelligence Lab (MSL) as a research intern
+- **2026** — Join **Meta Superintelligence Lab** (MSL) as a research intern
 - **2026** — Two papers accepted at **ACL 2026** 
 - **2026** — One paper accepted at **ICLR 2026**
 - **2025** — Papers accepted at ACL 2025, NAACL 2025 (Findings), and EMNLP 2025 (Findings)
