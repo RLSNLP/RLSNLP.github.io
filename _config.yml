@@ -11,13 +11,13 @@ repository               : "RLSNLP/RLSNLP.github.io"  # TODO: replace with your 
 # Site Author
 author:
   name             : "Renliang Sun"
-  avatar           : "images/profile.png"  # TODO: add your photo as images/profile.png
+  avatar           : "profile.png"  # TODO: add your photo as profile.png
   bio              : "CS PhD student @ UCLA"
   location         : "Los Angeles, CA"
   employer         :
   email            : "sunrenliang@ucla.edu"
   googlescholar    : "https://scholar.google.com/citations?user=WcwrsNAAAAAJ"  # TODO: add your Google Scholar ID
-  github           : # TODO: add your GitHub username
+  github           : "RLSNLP"
   uri              :
   bitbucket        :
   codepen          :
