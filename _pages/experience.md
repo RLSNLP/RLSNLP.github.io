@@ -31,6 +31,9 @@ author_profile: true
 
 ## Working Experience
 
+**Meta MSL (New York)** - Research Intern
+*Jun 2026 - Sep 2026*
+
 **Adobe Research (San Jose)** — Research Intern  
 *Jun 2025 – Sep 2025*
 - Build a controllable multi-agent framework for multi-doc attributions
