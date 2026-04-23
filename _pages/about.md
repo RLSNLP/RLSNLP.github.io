@@ -13,9 +13,10 @@ I am a PhD student in Computer Science at the University of California, Los Ange
 
 My research focuses on:
 
-- **Pre-training and Post-training** strategies of Large Language Models
-- **Test-Time Scaling and Reasoning Efficiency** — e.g., mitigating over-thinking in reasoning models
-- **Evaluation Methods and LLM-as-a-judge** — e.g., uncovering preference leakage as a contamination problem
+- **Component-Level Attribution and Analysis-Driven Generation of Agent Skills**
+- **Pre-training and Post-training strategies of Large Language Models**
+- **Test-Time Scaling and Reasoning Efficiency** 
+- **Evaluation Methods and LLM-as-a-judge** 
 
 ## News
 
