@@ -3,7 +3,7 @@ title: "MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning 
 collection: publications
 permalink: /publications/mmmu-benchmark/
 date: 2024-06-15
-venue: 'CVPR 2024 (Best Paper Candidates Award)'
+venue: 'CVPR 2024'
 paperurl: 'https://arxiv.org/pdf/2311.16502'
 category: 'work'
 ---
