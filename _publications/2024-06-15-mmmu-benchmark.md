@@ -8,7 +8,7 @@ paperurl: 'https://arxiv.org/pdf/2311.16502'
 category: 'work'
 ---
 
-**Renliang Sun** and 21 other authors
+with 21 other authors
 
 We proposed MMMU, a benchmark for evaluating multimodal models on college-level tasks. It includes 11.5K questions covering six disciplines and 30 subjects, focusing on advanced perception and reasoning.
 
