@@ -8,7 +8,7 @@ paperurl: 'https://arxiv.org/pdf/2312.04326'
 category: 'work'
 ---
 
-**Renliang Sun** and 10 other authors
+with 10 other authors
 
 A specialized text-to-image model for interior design, using curriculum learning and reinforcement learning to improve prompt-following capabilities and image quality.
 
