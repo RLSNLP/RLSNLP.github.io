@@ -8,7 +8,7 @@ paperurl: 'https://arxiv.org/abs/2502.17504'
 category: 'phd'
 ---
 
-**Renliang Sun** and 14 other authors
+with 14 other authors
 
 We provide the first comprehensive review of Protein Large Language Models, systematically analyzing their architectures, training data, evaluation metrics, and diverse applications.
 
