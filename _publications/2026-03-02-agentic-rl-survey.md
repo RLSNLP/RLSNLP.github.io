@@ -8,7 +8,7 @@ paperurl: 'https://www.techrxiv.org/users/1020340/articles/1380448'
 category: 'phd'
 ---
 
-**Renliang Sun** and 19 other authors
+with 19 other authors
 
 We survey Agentic Reinforcement Learning, which optimizes policies via environmental feedback in a Contextual POMDP framework, covering rollout/optimization, infrastructure, environments, and evaluation.
 
